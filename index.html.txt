@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1>Welcome to My Website</h1>
+<h1>Welcome to My static Website</h1>
     <p>This website is deployed using Jenkins.</p>
 </body>
 </html>
